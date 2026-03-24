@@ -1,4 +1,4 @@
-# python-development-applications
+# Notebook for code exercises and studies topics
 ### Python Study Repository
 
 This repository contains Python code developed during my learning process. The goal is to practice programming concepts, experiment with different approaches, and improve problem-solving skills.
